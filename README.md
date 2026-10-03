@@ -91,6 +91,10 @@ Read from Niagara-4.15.5.22. Three facts a Wireshark trace on the gateway can ch
      go to present-value directly
 ```
 
+## The same finding, written up
+
+The output above, which object types are written through the priority array, which are probed once, and what a failed probe does to the point, is also a page: <https://plantroomlabs.com/tools/bacnet-priority-scan/>. It carries this run, the download with its size and SHA-256, and the note explaining the reasoning.
+
 ## Licence
 
 MIT. Written by Usama Iqbal at [Plantroom Labs](https://plantroomlabs.com).
