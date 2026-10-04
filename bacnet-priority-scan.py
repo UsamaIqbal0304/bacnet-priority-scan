@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Usama Iqbal (Plantroom Labs)
 """How a Niagara station decides to write a BACnet point, read out of the jar.
 
     ./bacnet-priority-scan.py [NIAGARA_HOME]
